@@ -1,0 +1,1 @@
+# Starter Golang project to learn Golang
